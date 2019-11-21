@@ -19,11 +19,10 @@ body{
 	margin: 0;
 	text-align: left;
 }
-#entete{
+#entete, #countdown{
   text-align: center;
 }
 li{
-
 	display: inline-block;
 	line-height: 1.8em;
 	padding-left: 20px;
@@ -40,4 +39,13 @@ a, p, h1{
 }
 label{
 	color: white;
+}
+#countdown{
+	font-size: 45px;
+	line-height: 470px;
+}
+#InPro{
+	text-align: center;
+	font-size: 50px;
+	line-height: 370px;
 }
